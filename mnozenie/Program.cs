@@ -19,7 +19,7 @@ namespace Współbieżne
             int y = int.Parse(Console.ReadLine());
 
 
-            Console.WriteLine("Wynik: " + multiplication(x, y));
+            Console.WriteLine("Wynik mnozenia: " + multiplication(x, y));
         }
     }
 }
