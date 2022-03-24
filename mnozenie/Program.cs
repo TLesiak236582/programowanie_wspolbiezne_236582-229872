@@ -12,7 +12,7 @@ namespace Współbieżne
 
         static void Main(string[] args)
         {
-           
+            Console.WriteLine("Program obliczy wynik mnożenia dwóch liczb wprowadzonych przez użytkownika")
             Console.WriteLine("Podaj pierwsza liczbe:");
             int x = int.Parse(Console.ReadLine());
             Console.WriteLine("Podaj druga liczbe:");
