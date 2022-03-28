@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\Music\\mnozenie\\TestProject2\\TestProject2.csproj": {}
+    "C:\\Users\\PC\\Source\\Repos\\programowanie_wspolbiezne_236582-229872\\TestProject2\\TestProject2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\Music\\mnozenie\\mnozenie\\mnozenie.csproj": {
+    "C:\\Users\\PC\\Source\\Repos\\programowanie_wspolbiezne_236582-229872\\mnozenie\\mnozenie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Music\\mnozenie\\mnozenie\\mnozenie.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Source\\Repos\\programowanie_wspolbiezne_236582-229872\\mnozenie\\mnozenie.csproj",
         "projectName": "mnozenie",
-        "projectPath": "C:\\Users\\PC\\Music\\mnozenie\\mnozenie\\mnozenie.csproj",
+        "projectPath": "C:\\Users\\PC\\Source\\Repos\\programowanie_wspolbiezne_236582-229872\\mnozenie\\mnozenie.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Music\\mnozenie\\mnozenie\\obj\\",
+        "outputPath": "C:\\Users\\PC\\Source\\Repos\\programowanie_wspolbiezne_236582-229872\\mnozenie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "C:\\Users\\PC\\Music\\mnozenie\\TestProject2\\TestProject2.csproj": {
+    "C:\\Users\\PC\\Source\\Repos\\programowanie_wspolbiezne_236582-229872\\TestProject2\\TestProject2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Music\\mnozenie\\TestProject2\\TestProject2.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Source\\Repos\\programowanie_wspolbiezne_236582-229872\\TestProject2\\TestProject2.csproj",
         "projectName": "TestProject2",
-        "projectPath": "C:\\Users\\PC\\Music\\mnozenie\\TestProject2\\TestProject2.csproj",
+        "projectPath": "C:\\Users\\PC\\Source\\Repos\\programowanie_wspolbiezne_236582-229872\\TestProject2\\TestProject2.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Music\\mnozenie\\TestProject2\\obj\\",
+        "outputPath": "C:\\Users\\PC\\Source\\Repos\\programowanie_wspolbiezne_236582-229872\\TestProject2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\PC\\Music\\mnozenie\\mnozenie\\mnozenie.csproj": {
-                "projectPath": "C:\\Users\\PC\\Music\\mnozenie\\mnozenie\\mnozenie.csproj"
+              "C:\\Users\\PC\\Source\\Repos\\programowanie_wspolbiezne_236582-229872\\mnozenie\\mnozenie.csproj": {
+                "projectPath": "C:\\Users\\PC\\Source\\Repos\\programowanie_wspolbiezne_236582-229872\\mnozenie\\mnozenie.csproj"
               }
             }
           }

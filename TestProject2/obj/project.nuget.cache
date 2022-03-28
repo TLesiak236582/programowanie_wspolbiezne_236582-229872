@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "inZHo45ChKrrOfq+mlGovlZMAnwyi/OCSuZdFirO0aFoaBVMPry+4ChQSfQCkCS0AUUa4om02SxvCRuSgUkVSQ==",
+  "dgSpecHash": "wSRF1BvEZikCyUDQNKP8XR9IhtBNEGeMiDMD/pg2Disot3MmC6USfaRirU7Cbmxq6b6t6ruv7hBAMKmh1iIy2w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\Music\\mnozenie\\TestProject2\\TestProject2.csproj",
+  "projectFilePath": "C:\\Users\\PC\\Source\\Repos\\programowanie_wspolbiezne_236582-229872\\TestProject2\\TestProject2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.codecoverage\\16.11.0\\microsoft.codecoverage.16.11.0.nupkg.sha512",
